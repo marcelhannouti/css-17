@@ -1,0 +1,29 @@
+
+   header {
+       background-color: purple;
+       height: 50px;
+       width: 100%;
+   }
+   nav{
+       background-color: red;
+       height: 60px;
+       width: 100%;
+   }
+   section{
+       background-color: royalblue;
+       height: 393px;
+       width: 60%;
+       float: left;
+   }
+   aside{
+       background-color: green;
+       height: 393px;
+       width: 40%;
+       float: right;
+   }
+   footer{
+    background-color: gray;
+    height: 33px;
+    width: 100%;
+    clear: both;
+}
